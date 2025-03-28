@@ -1,6 +1,6 @@
-# Accordion-Menu-By-React
+# My-Shop-By-Html-Css
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+**If you like html and css template developing, why don't you visit my first shop project**
 
 ![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
 
@@ -8,13 +8,11 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Developed by Hanane Mohseni
 
-- Created - 2022-11-26
+- Created - 2025-03-28
 
-- Technologies Used - Html , css , js , React.js
-
-- Hooks Used : useState 
+- Technologies Used - Html , css 
 
 - Role - Frontend
 
