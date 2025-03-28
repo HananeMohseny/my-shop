@@ -10,7 +10,7 @@
 
 - 🌞Created - 2025-03-28
 
-- 🔮Technologies Used - Html , css 
+- 🔮Technologies Used - Html , css
 
 - ⭐Role - Frontend
 
