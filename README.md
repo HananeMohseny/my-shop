@@ -16,4 +16,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [e-mail](hananehmohseny84@gmail.com) and [linkedin](https://linkedin.com/in/hanane-mohseni-38033134a)
